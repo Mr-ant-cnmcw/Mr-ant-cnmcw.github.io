@@ -26,10 +26,10 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			LinkPresets.Archive,
 
 			// 分类
-			LinkPresets.Categories,
+			//LinkPresets.Categories,
 
 			// 标签
-			LinkPresets.Tags,
+			//LinkPresets.Tags,
 		],
 	});
 
@@ -74,7 +74,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		icon: "material-symbols:info",
 		children: [
 			// 打赏
-			LinkPresets.Sponsor,
+			//LinkPresets.Sponsor,
 
 			// 关于页面
 			LinkPresets.About,
@@ -82,7 +82,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 	});
 
 	// 自定义导航栏链接
-	links.push({
+	/*links.push({
 		name: "链接",
 		url: "#",
 		icon: "material-symbols:link",
@@ -113,7 +113,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 				icon: "material-symbols:docs",
 			},
 		],
-	});
+	});*/
 
 	// 文档链接
 	// links.push({
