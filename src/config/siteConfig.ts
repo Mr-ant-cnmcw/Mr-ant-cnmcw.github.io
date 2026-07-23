@@ -74,7 +74,7 @@ export const siteConfig: SiteConfig = {
 		logo: {
 			type: "image",
 			value: "assets/images/hollow.png",
-			alt: "logo",//🍀,
+			alt: "assets/images/hollow.png",//🍀,
 		},
 		// 导航栏标题
 		title: "Annnnnt",
