@@ -2,7 +2,7 @@ import type { CommentConfig } from "../types/commentConfig";
 
 export const commentConfig: CommentConfig = {
 	// 评论系统类型: none, twikoo, waline, giscus, disqus, artalk，默认为none，即不启用评论系统
-	type: "twikoo",
+	type: "waline",
 
 	//twikoo评论系统配置
 	twikoo: {
@@ -23,7 +23,7 @@ export const commentConfig: CommentConfig = {
 	//waline评论系统配置
 	waline: {
 		// waline 后端服务地址
-		serverURL: "https://waline.vercel.app",
+		serverURL: "https://api.zcservice.houlang.cloud/comment/47fc38d1a7bc34d81f9e7137eb4a48ff",
 		// 设置 Waline 评论系统语言
 		lang: "zh-CN",
 		// 设置 Waline 评论系统表情地址
