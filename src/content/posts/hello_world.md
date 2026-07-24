@@ -1,9 +1,10 @@
 ---
 title: 我的第一个网站搭好啦！
 published: 2026-07-23
-pinned: false
+pinned: true
 description: "为什么想搭一个网站呢？怎么搭的？"
 tags: [ "博客", "Markdown","碎碎念"]
+image: .\images\show_you_flower.avif
 category: 博客
 ---
 
