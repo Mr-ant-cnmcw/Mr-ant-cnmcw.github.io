@@ -2,6 +2,7 @@
 title: 如何下载并破解Typora
 published: 2026-02-20
 pinned: false
+image: ./images/typora_img.avif
 description: "Typora是一个非常好用的md编辑器，不过要收费，本文提供了一种破解的方法"
 tags: [ "教程", "Markdown","破解"]
 category: 教程
