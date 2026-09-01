@@ -1,6 +1,6 @@
 ---
 title: 计网初探
-published: 2026-9-1
+published: 2026-09-01
 pinned: false
 description: 一些基本的计算机网络知识
 tags: [net，SA]
